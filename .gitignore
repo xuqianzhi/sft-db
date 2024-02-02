@@ -1,0 +1,9 @@
+.DS_Store
+
+.env
+sft-python-firebase-adminsdk-z1ywq-cd38aef86e.json
+
+*.pyc
+*.pyo
+__pycache__/
+.mypy_cache
